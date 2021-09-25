@@ -1,2 +1,2 @@
 # html_test
-htmlとgithubのテスト
+htmlとgithubのテスト用リポジトリ
